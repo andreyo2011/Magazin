@@ -1,6 +1,6 @@
 # Magazin
 
-Site online pentru produce naturiste
+Site online pentru produse naturiste
 
 Descrierea paginii principala:
 Acasa(pagina principala unde o sa apara diverse oferte si reduceri)
